@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AsyncInvokeDemo", "AsyncInvokeDemo.vcxproj", "{234C8979-9396-4DB8-A3CB-20AE9716B626}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{234C8979-9396-4DB8-A3CB-20AE9716B626}.Debug|Win32.ActiveCfg = Debug|Win32
+		{234C8979-9396-4DB8-A3CB-20AE9716B626}.Debug|Win32.Build.0 = Debug|Win32
+		{234C8979-9396-4DB8-A3CB-20AE9716B626}.Release|Win32.ActiveCfg = Release|Win32
+		{234C8979-9396-4DB8-A3CB-20AE9716B626}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
